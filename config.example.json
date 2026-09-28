@@ -1,0 +1,7 @@
+{
+  "whisper_threads": 8,
+  "whisper_gpu": true,
+  "gpu_layers": 99,
+  "llama_device": "Vulkan0",
+  "whisper_vad_enabled": false
+}

@@ -1,0 +1,52 @@
+# Local installation and user data
+/config.json
+/models/
+/tools/
+/work/
+/outputs/
+/downloads/
+/__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.parts/
+
+# Machine-specific launchers and local notes
+/*.lnk
+/启动_显示错误.cmd
+/使用说明.md
+
+# Generated media and downloaded dependencies anywhere in the tree
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
+*.wmv
+*.flv
+*.mpg
+*.mpeg
+*.mts
+*.m2ts
+*.wav
+*.mp3
+*.flac
+*.srt
+*.ass
+*.gguf
+*.safetensors
+*.onnx
+*.bin
+*.exe
+*.dll
+*.zip
+*.7z
+*.whl
+
+# Editor/system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
